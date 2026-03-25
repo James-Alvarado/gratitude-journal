@@ -10,4 +10,6 @@ Today I am also grateful for making progress with Git and understanding the work
 
 Today, I am grateful for my family, and the back support I have from my loved ones
 
+I am grateful because Today I practiced using branches and pull requests.
+
 ## March 25, 2026
