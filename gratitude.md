@@ -13,3 +13,5 @@ Today, I am grateful for my family, and the back support I have from my loved on
 I am grateful because Today I practiced using branches and pull requests.
 
 ## March 25, 2026
+
+Today I am learning how pull requests actually work in practice.
