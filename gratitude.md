@@ -15,3 +15,7 @@ I am grateful because Today I practiced using branches and pull requests.
 ## March 25, 2026
 
 Today I am learning how pull requests actually work in practice.
+
+## March 28, 2026
+
+Today im grateful beacuse I was able to share my firts webpage with my cohort 
