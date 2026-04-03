@@ -1,2 +1,3 @@
 # gratitude-journal
-Daily gratitude entries from my AI Builder journey
+
+Daily gratitude entries from my journey as an AI Builder.
