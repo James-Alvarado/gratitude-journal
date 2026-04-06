@@ -39,3 +39,9 @@ Today I’m grateful for the challenge we faced when the .js files were lost, be
 # April 1, 2026
 
 I’m grateful for the challenge of losing my JavaScript file this week, because it forced me to rebuild my project, improve my organization, and better understand version control
+
+# April 4, 2026
+
+I am gratefull for the progress I am making in learning workflow automation. 
+
+I am also grateful for showcasing my first MVP at Pursuit
