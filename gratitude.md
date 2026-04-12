@@ -43,5 +43,12 @@ I’m grateful for the challenge of losing my JavaScript file this week, because
 # April 4, 2026
 
 I am gratefull for the progress I am making in learning workflow automation. 
-
 I am also grateful for showcasing my first MVP at Pursuit
+
+# April 6, 2026
+
+Tpday I am grateful for making progress on my MVP an understanding dependencies better. 
+
+# April 11, 2026
+
+Today I’m grateful for staying committed to my learning, even when it feels challenging.
