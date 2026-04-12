@@ -47,7 +47,7 @@ I am also grateful for showcasing my first MVP at Pursuit
 
 # April 6, 2026
 
-Tpday I am grateful for making progress on my MVP an understanding dependencies better. 
+I am grateful for making progress on my MVP an understanding dependencies better. 
 
 # April 11, 2026
 
