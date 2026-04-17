@@ -60,3 +60,7 @@ I’m grateful for the opportunity to keep learning and improving every day.
 # April 13, 2026 
 
 Today I am grateful for Fixing my learning on how to use branches correctly in Git and becoming more confident with my workflow.
+
+# April 14, 2026 
+
+Today I am grateful for the feedback from my cohort on my MVP this week, as it helped me rethink and improve the core of my project.
