@@ -68,3 +68,7 @@ Today I am grateful for the feedback from my cohort on my MVP this week, as it h
 # April 15, 2026
 
 I'm grateful for pushing myself to prove I could meet this week's goal of developing a data-driven MVP, even when I had to start over due to insecurity about the development method and the loss of progress from forgetting to save changes to Git.
+
+# April 18, 2026 
+
+Today I’m grateful for pushing through the challenges of building my Week 5 MVP. Starting over was not easy, but it helped me gain real understanding instead of just finishing fast. That experience made me feel proud of my progress and excited to come to class today.
